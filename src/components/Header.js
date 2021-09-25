@@ -10,6 +10,8 @@ export const Nav = styled.header`
   background: red;
 `;
 
+export const Nav = styled.header``;
+
 export const ListItem = styled.nav``;
 
 export const listItem = styled.li``;
